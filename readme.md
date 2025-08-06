@@ -28,4 +28,7 @@ Permet de creer une branche
 ## git checkout 
 - Permet de passer d'une branche a une autre
 - Permet de se deplacer d'une branche a une autre
-- Avec l'option -b checkout creer la branche si elle n'existe pas
+- Avec l'option -b checkout creer la branche si elle n'existe pas.
+
+## git pull
+- Permet de recuperer les modifications distantes
