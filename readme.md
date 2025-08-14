@@ -32,3 +32,4 @@ Permet de creer une branche
 
 ## git pull
 - Permet de recuperer les modifications distantes
+- Pousser le code en ligne vers le local
