@@ -33,3 +33,8 @@ Permet de creer une branche
 ## git pull
 - Permet de recuperer les modifications distantes
 - Pousser le code en ligne vers le local
+
+## git rebase
+- Permet de recuperer les modifications dans la branche mere
+- Les modifications de la branche mere sont placees en dessous de modificationsde la branche courante 
+- Les modifications de la branche courant sont placees au  dessus de modificationsde la branche de la branche mere 
